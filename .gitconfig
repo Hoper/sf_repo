@@ -1,0 +1,9 @@
+[user]
+	email = denispal@gmail.com
+	name = Hoper
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	history = log --graph
